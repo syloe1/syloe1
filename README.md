@@ -4,6 +4,10 @@
   <img src="https://img.shields.io/badge/status-learning-blue?style=flat-square" alt="learning">
 </p>
 
+<div align="center">
+  <img src="./3.svg" alt="Banner">
+</div>
+
 > Currently learning software development.
 
 💪 **My Current Skills**
