@@ -29,6 +29,9 @@
 
 
 
+<!--
 <div align="center">
   <img src="./3.svg" alt="Banner">
 </div>
+-->
+
